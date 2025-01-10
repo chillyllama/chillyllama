@@ -45,7 +45,7 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vio&show_icons=true&locale=en&layout=compact&theme=default" alt="vio's most used languages" />
-<img height="180em" src="https://streak-stats.demolab.com?user=chillyllama&theme=default&hide_border=true" alt="vio's contribution streak" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=chillyllama&background=FFFFFF&hide_border=true" alt="vio's contribution streak" />
 
 ---
 ✨ Let's connect and build something amazing together! Feel free to reach out for collaborations or just a friendly chat about tech. 🥰
