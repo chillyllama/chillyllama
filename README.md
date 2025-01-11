@@ -1,7 +1,6 @@
-# vio 🌸
-
 ![](https://komarev.com/ghpvc/?username=chillyllama&style=flat-square&color=ff69b4&base=14938)
 
+![Banner](/banner.png)
 
 - 💻 Full-stack developer with a passion for AI/ML and beautiful interfaces
 - 🌱 Currently exploring Large Language Models and their applications in production systems
@@ -9,7 +8,7 @@
 
 ### 🖥 Skills
 
-**Frontend Development** • Building modern web applications with React, Next.js, and TypeScript • Crafting responsive UIs with Tailwind CSS
+**Frontend Development** • Building modern web applications with Next.js and TypeScript • Crafting responsive UIs with Tailwind
 
 **Machine Learning** • Production-ready ML models • Transformer architectures and LLMs • Custom training pipelines
 
@@ -35,4 +34,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=F0F0F0)
 ![Bootstrap](https://img.shields.io/badge/-Vue.js-05122A?style=flat-square&logo=Vue.js&color=F0F0F0)
 
-✨ Let's connect and build something amazing together! Feel free to reach out for collaborations or just a friendly chat about tech. 🥰
+✨ Let's connect and build something sweet together! Feel free to reach out for collaborations or just a friendly chat about tech. 🥰
